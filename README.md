@@ -20,7 +20,7 @@ Command-line tool development
 
 Installation
 bashCopy# Clone the repository
-git clone https://github.com/your-username/cybersecurity-projects
+git clone https://github.com/Dc0der-X/network-security-monitoring-tool
 
 # Navigate to the project directory
 cd cybersecurity-projects
